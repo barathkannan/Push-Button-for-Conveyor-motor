@@ -39,9 +39,6 @@ Useful for operator-friendly material handling stations
 ![Image](https://github.com/user-attachments/assets/233229a1-3a10-4cff-a336-88605643139d)
 
 
+# Conclusion
 
-
-
-# Applications
-
-Ideal for small automation setups, educational demonstrations, or operator stations in industries where compact and simple control is required.
+**The push-button-controlled conveyor motor project helped build a solid understanding of basic motor control using PLC logic. By integrating Start/Stop push buttons and interlocking logic, I learned how to safely operate and control motor-driven systems. This project laid the groundwork for more advanced automation applications involving actuators, sensors, and safety mechanisms.**
